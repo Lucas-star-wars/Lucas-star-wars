@@ -1,16 +1,23 @@
-### Hi there 👋
+Olá!👋
+Prazer, sou o Lucas Santana! 
+Entusiasta da tecnologia há um tempo. 
 
-<!--
-**Lucas-star-wars/Lucas-star-wars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Graduado em Engenharia da Computação pela ESAMC Santos.
+- 🤖 Estágio de robótica feito na Logic Minds.
+- 🔉 Inglês - Nível Básico (Treinando pelo Duolingo_"https://pt.duolingo.com/")
 
-Here are some ideas to get you started:
+  ## 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/lucas_s_s.luffy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	
+  <a href = "mailto:lucassantanasouza4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-santana-souzaaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
