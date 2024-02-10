@@ -1,6 +1,6 @@
 Olá!👋
 Prazer, sou o Lucas Santana! 
-Entusiasta de tecnologia há um tempo, estou me aprofundando em Python por vontade própria.  
+Entusiasta de tecnologia há um tempo, busco o máximo que posso para estar atualizado no assunto.  
 
 - 💻 Graduado em Engenharia da Computação pela ESAMC Santos.
 - 🤖 Estágio de robótica feito na Logic Minds.
