@@ -5,6 +5,7 @@ Entusiasta da tecnologia há um tempo, em busca de aprendizagem constante.
 - 💻 Graduado em Engenharia da Computação pela ESAMC Santos.
 - 🤖 Estágio de robótica feito na Logic Minds.
 - 🔉 Inglês - Nível Básico (Treinando pelo Duolingo_"https://pt.duolingo.com/")
+- 📧 lucas_santana4_@hotmail.com
 
   ## 
 
