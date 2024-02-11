@@ -1,6 +1,6 @@
 Olá!👋
 Prazer, sou o Lucas Santana! 
-Entusiasta da tecnologia há um tempo, em busca de aprendizagem constante.  
+Entusiasta da tecnologia há um tempo e sempre em busca de aprendizagem constante.  
 
 - 💻 Graduado em Engenharia da Computação pela ESAMC Santos.
 - 🤖 Estágio de robótica feito na Logic Minds.
